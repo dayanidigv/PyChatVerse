@@ -1,8 +1,8 @@
 # PyChatVerse - Real-Time Chat Application
-
+![Alt pychatverse](https://dayanidigv.github.io/PyChatVerse/Images/pychatversepng.png)
 PyChatVerse is an innovative and user-friendly chat application package for Python, designed to provide a seamless real-time communication experience. With a focus on simplicity, interactivity, and versatility, PyChatVerse enables users to engage in both global and private chat rooms, making it an ideal solution for a wide range of communication needs.
 
-<br />
+
 
 ## Key Features:
 
@@ -16,7 +16,7 @@ PyChatVerse is an innovative and user-friendly chat application package for Pyth
 
 - **Feedback Integration**: Provide valuable insights and suggestions by seamlessly sharing your feedback with the developers from within the application.
 
-<br />
+
 
 # Installation:
 
@@ -24,20 +24,15 @@ PyChatVerse is an innovative and user-friendly chat application package for Pyth
 
 ### Install the package using the simple `pip` command:
    
-```bash
-pip install pychatverse
-```
-
-Or, you can use the uppercase package name:
 
 ```bash
 pip install PyChatVerse
 ```
-<br />
+
 
 # Usage:
 ## Import and integrate the PyChatVerse module within your Python codebase:
-<br />
+
 
 ### Initialize the chat application and display the main menu
 ```python
@@ -60,14 +55,13 @@ output:
 ╭───────────────────────────────╮
 │    Enter your Choice:
 ```
-<br />
 
 # Global Chat
 ## Join the Global Chat
 
 You can easily join the global chat using the PyChatVerse package.
 
-<br />
+
 
 ### Option 1: Join Global Chat with User Input
 ```python
@@ -86,7 +80,6 @@ ouput:
    Successfully Joined Global Room.
 ```
 
-<br />
 
 ### Option 2: Join Global Chat with Specified Name
 ```python
@@ -106,7 +99,6 @@ Successfully Joined Global Room.
 ```
 Now open chat windows instantly and start engaging in the global chat with other users.
 
-<br />
 
 # Private Chats
 ## Create or join private chat rooms
@@ -117,7 +109,6 @@ import pychatverse as py
 
 chat = py.pychatverse()
 ```
-<br />
 
 
 ##   Display the private chat room menu
@@ -142,7 +133,6 @@ output:
 
 ```
 
-<br />
 
 ## Create a private chat room with User Input
 ```python
@@ -161,7 +151,6 @@ output:
 ```
 Now open chat windows instantly and start engaging in the global chat with other users.
 
-<br />
 
 ## Join a private chat room with User Input
 
@@ -192,7 +181,6 @@ chat.PrivateChat(creater=True,name="Surya",RoomID="123@")
 # Join a private chat room as a participant
 chat.PrivateChat(joiner=True,name="Daya",RoomID="123@")
 ```
-<br />
 
 # Providing Feedback
 ### You can share your feedback on PyChatVerse using the following commands:
@@ -206,7 +194,6 @@ chat.feedback()
 # Provide feedback with a message
 chat.feedback(message="yeah! it's Good")
 ```
-<br />
 
 # Getting Help
 
@@ -216,14 +203,12 @@ chat.help()
 ```
 Now you can explore and use the various features of PyChatVerse to engage in real-time chats and communication!
 
-<br />
 
 # Portfolio
 
 ## Explore more of my projects and work on my portfolio:
 
- ### [Dayanidi's Portfolio](http://dayanidiportfolio.github.io/) 
-<br />
+### [Dayanidi's Portfolio](http://dayanidiportfolio.github.io/) 
 
 # Contact
 
